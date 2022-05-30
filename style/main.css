@@ -45,7 +45,7 @@ color: #fff;
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(to right, rgb(0, 0, 0, .95),rgba(0,0,0,.50) 100%), url(/img/Capa_Rainha.jpeg);
+    background: linear-gradient(to right, rgb(0, 0, 0, .95),rgba(0,0,0,.50) 100%), url(../img/Capa_Rainha.jpeg);
     height: 400px;
     background-size: cover;
     display: flex;
